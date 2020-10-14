@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Playlist Player</string>
+    <string name="play_stop_song_nscrub_with_seekbar">PLAY/STOP SONG.\nSCRUB WITH SEEKBAR</string>
+    <string name="play_sound" />
+</resources>
